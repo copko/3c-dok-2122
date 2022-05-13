@@ -8,6 +8,6 @@ Blablabla Cupcake ipsum dolor sit amet consectetur apidiscit elit.
 
 Hello world
 
-Jahodova zmrzlina
+Jahodova a čokoládová zmrzlina
 
 Citrónová poleva, čokoládová posýpka
