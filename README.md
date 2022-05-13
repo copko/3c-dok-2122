@@ -2,7 +2,7 @@
 Blablabla Cupcake ipsum dolor sit amet consectetur apidiscit elit. 
 
 ## O čom to bude
-- o mne
+- o nás
 - fotky
 - kontakt
 
