@@ -10,4 +10,4 @@ Hello world
 
 Jahodova zmrzlina
 
-Citrónová poleva
+Citrónová poleva, dúhová posýpka
