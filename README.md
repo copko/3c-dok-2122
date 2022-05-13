@@ -6,7 +6,7 @@ Blablabla Cupcake ipsum dolor sit amet consectetur apidiscit elit.
 - fotky
 - kontakt
 
-Hi world
+Hi apple
 
 Jahodova a čokoládová zmrzlina
 
